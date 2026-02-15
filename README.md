@@ -68,6 +68,3 @@ Solución integral para gestión y facturación automatizada.
 -Contenerización con Docker
 
 -Dashboard administrativo en Next.js
-
-🌐 Conecta conmigo
-<p align="center"> <a href="https://www.linkedin.com/in/stanlin-fernandez-62b003248/"> <img src="https://img.shields.io/badge/LinkedIn-213685?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Stanlin.fernández27@gmail.com"> <img src="https://img.shields.io/badge/Email-213685?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
