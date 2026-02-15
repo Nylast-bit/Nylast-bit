@@ -38,6 +38,7 @@ Ingeniero de Software enfocado en sistemas backend escalables y frontend moderno
 
 ⚛ Interfaces modernas con React, Shadcn UI y Tailwind CSS
 
+
 ## Proyectos Destacados
 
 🏦 Motor Financiero & Sistema de Identidad
@@ -53,6 +54,8 @@ Sistema empresarial enfocado en flujos transaccionales seguros.
 -Integración con AWS S3
 
 -Interfaz administrativa con React + TypeScript
+
+
 
 ⚙ API de Servicios Corporativos & Automatización
 
