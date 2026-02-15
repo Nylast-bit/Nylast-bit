@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**Nylast-bit/Nylast-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer  
+⚛️ React | TypeScript | .NET | C# | Python  
+🚀 Construyendo sistemas reales y escalables  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Desarrollador enfocado en backend sólido con .NET y frontend moderno con React.
+Me gusta construir sistemas limpios, bien estructurados y mantenibles.
+
+---
+
+## 🛠️ Tecnologías
+
+- Frontend: React, TypeScript, Next.js
+- Backend: .NET, C#, Entity Framework
+- Base de datos: SQL Server, PostgreSQL
+- DevOps: Docker, CI/CD
+- Otros: Git, REST APIs
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🏦 Sistema de Gestión Financiera
+Sistema fullstack con autenticación JWT y control de roles.
+
+### 🍽️ Sistema de Comedor Corporativo
+Backend en .NET con envío automático de facturas por correo.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [link]
+- Email: [correo]
