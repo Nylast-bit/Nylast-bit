@@ -1,57 +1,65 @@
-# 👋 Hola, soy Stanlin Fernández
+<h1 align="center">Stanlin Fernández</h1>
+<h3 align="center">Ingeniero de Software • .NET • React • Arquitectura de Sistemas</h3>
 
-💻 Software Engineer  
-React | TypeScript | .NET | C# | Python  
-Construyendo sistemas reales y escalables  
-
----
-
-## Sobre mí
-
-Desarrollador enfocado en backend sólido con .NET y frontend moderno con React.
-Me gusta construir sistemas limpios, bien estructurados y mantenibles.
-Soluciones que de verdad ayuden a la gente.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=213685&center=true&vCenter=true&width=600&lines=Construyendo+sistemas+reales;Arquitectura+limpia+y+escalable;APIs+seguras+empresariales;Especialista+en+React+y+.NET" />
+</p>
 
 ---
 
-## Tecnologías
+## 🧠 Sobre mí
 
--Backend: .NET 8/9, C#, Entity Framework Core (SQL Server & PostgreSQL).
--Frontend: React, TypeScript, Next.js, Shadcn UI, Tailwind CSS.
--Arquitectura & Patrones: Clean Architecture, CQRS, Repository Pattern, Dependency Injection.
--Identidad & Seguridad: Implementación de autenticación con Microsoft Entra ID (Azure AD) y OAuth2/OIDC.
--Cloud & DevOps: Gestión de almacenamiento en AWS S3, Docker, CI/CD Pipelines y Git.
+```bash
+> quien_soy
+Stanlin Fernández
 
----
+> rol
+Ingeniero de Software enfocado en sistemas backend escalables y frontend moderno.
 
-## 📌 Proyectos Destacados
+> filosofia
+"Construir seguro. Construir limpio. Construir para escalar."
 
-### Core Identity & Financial Engine
-Sistema empresarial de alta seguridad enfocado en la gestión de flujos transaccionales y control de acceso.
+```
 
--Backend: Arquitectura limpia en .NET 8 con Entity Framework Core.
--Seguridad: Implementación de Microsoft Entra ID (Azure AD) y JWT para autenticación robusta y control de acceso basado en roles (RBAC).
--Cloud: Integración con AWS S3 para la gestión persistente y segura de documentos financieros.
--Frontend: Interfaz reactiva con React, TypeScript y Shadcn UI, priorizando la integridad de los datos.
+🛠 Stack Tecnológico
+<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,nextjs,postgres,docker,aws,git" /> </p>
 
-### Corporate Service & Automation API
-Solución integral para la gestión de servicios internos y automatización de procesos administrativos.
+🏗 Especialización
 
--Automatización: Motor de generación y envío automático de facturación electrónica mediante servicios de correo integrados en el backend.
--Stack: API robusta construida con C# y persistencia en PostgreSQL/SQL Server.
--DevOps: Contenerización con Docker para asegurar paridad entre entornos de desarrollo y producción.
--UX: Dashboard administrativo en Next.js con optimización de rutas y renderizado eficiente.
+🏛 Arquitectura Limpia & CQRS
 
-### Mobile-First Infrastructure & Budgeting Tool
-Plataforma diseñada para el cálculo y proyección de presupuestos complejos con enfoque en dispositivos móviles.
+🔐 Autenticación Empresarial (Microsoft Entra ID, OAuth2, RBAC)
 
--Arquitectura: Implementación de Patrones de Diseño (Strategy/Factory) para el cálculo dinámico de costos y presupuestos.
--Integración: Consumo de APIs RESTful con manejo avanzado de estado en el frontend.
--Validación: Lógica de negocio estrictamente tipada con TypeScript para minimizar errores en cálculos financieros.
+💾 Optimización con SQL Server y PostgreSQL
 
----
+☁ Integraciones con AWS S3
 
-## 📫 Contacto
+🐳 Contenerización con Docker y CI/CD
 
-- LinkedIn: https://www.linkedin.com/in/stanlin-fernandez-62b003248/ 
-- Email: Stanlin.fernández27@gmail.com
+⚛ Interfaces modernas con React, Shadcn UI y Tailwind CSS
+
+🚀 Proyectos Destacados
+🏦 Motor Financiero & Sistema de Identidad
+
+Sistema empresarial enfocado en flujos transaccionales seguros.
+
+-Arquitectura limpia en .NET 8
+-Microsoft Entra ID + JWT
+-Control de acceso basado en roles
+-Integración con AWS S3
+-Interfaz administrativa con React + TypeScript
+
+⚙ API de Servicios Corporativos & Automatización
+
+Solución integral para gestión y facturación automatizada.
+
+-Motor automático de generación y envío de facturas
+-Persistencia en PostgreSQL y SQL Server
+-Contenerización con Docker
+-Dashboard administrativo en Next.js
+
+
+📈 Actividad en GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🌐 Conecta conmigo
+<p align="center"> <a href="https://www.linkedin.com/in/stanlin-fernandez-62b003248/"> <img src="https://img.shields.io/badge/LinkedIn-213685?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Stanlin.fernández27@gmail.com"> <img src="https://img.shields.io/badge/Email-213685?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
