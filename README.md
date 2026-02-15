@@ -38,15 +38,20 @@ Ingeniero de Software enfocado en sistemas backend escalables y frontend moderno
 
 ⚛ Interfaces modernas con React, Shadcn UI y Tailwind CSS
 
-🚀 Proyectos Destacados
+## Proyectos Destacados
+
 🏦 Motor Financiero & Sistema de Identidad
 
 Sistema empresarial enfocado en flujos transaccionales seguros.
 
 -Arquitectura limpia en .NET 8
+
 -Microsoft Entra ID + JWT
+
 -Control de acceso basado en roles
+
 -Integración con AWS S3
+
 -Interfaz administrativa con React + TypeScript
 
 ⚙ API de Servicios Corporativos & Automatización
@@ -54,12 +59,12 @@ Sistema empresarial enfocado en flujos transaccionales seguros.
 Solución integral para gestión y facturación automatizada.
 
 -Motor automático de generación y envío de facturas
+
 -Persistencia en PostgreSQL y SQL Server
+
 -Contenerización con Docker
+
 -Dashboard administrativo en Next.js
 
-
-📈 Actividad en GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🌐 Conecta conmigo
-<p align="center"> <a href="https://www.linkedin.com/in/stanlin-fernandez-62b003248/"> <img src="https://img.shields.io/badge/LinkedIn-213685?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Stanlin.fernández27@gmail.com"> <img src="https://img.shields.io/badge/Email-213685?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/stanlin-fernandez-62b003248/"> <img src="https://img.shields.io/badge/LinkedIn-213685?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Stanlin.fernández27@gmail.com"> <img src="https://img.shields.io/badge/Email-213685?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
